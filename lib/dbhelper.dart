@@ -1,4 +1,4 @@
-// ignore_for_file: non_constant_identifier_names, duplicate_ignore, unused_field, unused_import
+// ignore_for_file: non_constant_identifier_names, duplicate_ignore, unused_field, unused_import, constant_identifier_names
 
 import 'dart:ffi';
 import 'dart:io';
